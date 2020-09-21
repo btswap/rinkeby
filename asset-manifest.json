@@ -4,13 +4,13 @@
     "static/js/0.25ec5840.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/0.25ec5840.chunk.js.map",
     "static/js/1.9f09ab4a.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/1.9f09ab4a.chunk.js",
     "static/js/1.9f09ab4a.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/1.9f09ab4a.chunk.js.map",
-    "main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.06d4623e.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.06d4623e.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.1e251974.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.1e251974.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/runtime-main.2eb7414c.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/runtime-main.2eb7414c.js.map",
     "static/css/4.de6a0524.chunk.css": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/css/4.de6a0524.chunk.css",
-    "static/js/4.7cef4da8.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.7cef4da8.chunk.js",
-    "static/js/4.7cef4da8.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.7cef4da8.chunk.js.map",
+    "static/js/4.f82be67d.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.f82be67d.chunk.js",
+    "static/js/4.f82be67d.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.f82be67d.chunk.js.map",
     "static/js/5.60a516d6.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/5.60a516d6.chunk.js",
     "static/js/5.60a516d6.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/5.60a516d6.chunk.js.map",
     "static/js/6.381d335e.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/6.381d335e.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.0f962176.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/9.0f962176.chunk.js",
     "static/js/9.0f962176.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/9.0f962176.chunk.js.map",
     "index.html": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/index.html",
-    "precache-manifest.6b935457322f44052690fe1efe97099f.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/precache-manifest.6b935457322f44052690fe1efe97099f.js",
+    "precache-manifest.f444af299f4addc7ec57f0b696d3e49e.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/precache-manifest.f444af299f4addc7ec57f0b696d3e49e.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/service-worker.js",
     "static/css/4.de6a0524.chunk.css.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/css/4.de6a0524.chunk.css.map",
-    "static/js/4.7cef4da8.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.7cef4da8.chunk.js.LICENSE.txt",
+    "static/js/4.f82be67d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.f82be67d.chunk.js.LICENSE.txt",
     "static/js/5.60a516d6.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/5.60a516d6.chunk.js.LICENSE.txt",
     "static/js/9.0f962176.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/9.0f962176.chunk.js.LICENSE.txt",
     "static/media/inter.css": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/media/Inter.var.4b976905.woff2",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.2eb7414c.js",
     "static/css/4.de6a0524.chunk.css",
-    "static/js/4.7cef4da8.chunk.js",
-    "static/js/main.06d4623e.chunk.js"
+    "static/js/4.f82be67d.chunk.js",
+    "static/js/main.1e251974.chunk.js"
   ]
 }
