@@ -122,5 +122,7 @@
   "LiquidityReward": "'流动性奖励'在您提现bt之前可能会发生改变，展示的是您流动性*时间的权重比例，当您提现bt后代币数量锁定，且您的相应流动性权重会清除。",
   "TradingReward": "'交易奖励'在您提现bt之前可能会发生改变，展示的交易奖励为您交易量占总交易量的权重比例。当您提现bt后代币数量锁定，且您的相应交易权重会清除。",
   "Show All Pool": "全部显示",
-  "CurrentPoolReward": "总交易额"
+  "CurrentPoolReward": "交易额",
+  "MyRewardQuestion": "您当前每小时交易量占比，有可能会出现增多或减小的情况",
+  "MyWithdrawlQuestion": "每24小时当前奖励总额"
 }
