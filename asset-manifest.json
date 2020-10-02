@@ -4,8 +4,8 @@
     "static/js/0.06679773.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/0.06679773.chunk.js.map",
     "static/js/1.e6363e1d.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/1.e6363e1d.chunk.js",
     "static/js/1.e6363e1d.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/1.e6363e1d.chunk.js.map",
-    "main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.9be30394.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.9be30394.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.c2c748d1.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/main.c2c748d1.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/runtime-main.bf938f00.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/runtime-main.bf938f00.js.map",
     "static/css/4.de6a0524.chunk.css": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/css/4.de6a0524.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.16678738.chunk.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/9.16678738.chunk.js",
     "static/js/9.16678738.chunk.js.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/9.16678738.chunk.js.map",
     "index.html": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/index.html",
-    "precache-manifest.9a71ed2f60d419ca2e6bbd2edb86b4b2.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/precache-manifest.9a71ed2f60d419ca2e6bbd2edb86b4b2.js",
+    "precache-manifest.8ca557e66b2b71136023708b6a928936.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/precache-manifest.8ca557e66b2b71136023708b6a928936.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/service-worker.js",
     "static/css/4.de6a0524.chunk.css.map": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/css/4.de6a0524.chunk.css.map",
     "static/js/4.687f8727.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/btswap/rinkeby/static/js/4.687f8727.chunk.js.LICENSE.txt",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.bf938f00.js",
     "static/css/4.de6a0524.chunk.css",
     "static/js/4.687f8727.chunk.js",
-    "static/js/main.9be30394.chunk.js"
+    "static/js/main.c2c748d1.chunk.js"
   ]
 }
