@@ -139,6 +139,6 @@
   "TradingReward": "The 'trading reward balance' may fluctuate before you withdraw BT. The trading rewards displayed is based on the ratio of your transaction volume to the total transaction volume. Upon withdrawal of BT, your ratio will be updated for the next reward cycle.",
   "Show All Pool": "Show All Pool",
   "CurrentPoolReward": "Transactions",
-  "MyRewardQuestion": "The proportion of your current hourly trading volume, there may be more or reorganization",
-  "MyWithdrawlQuestion": "Current total rewards per 24 hours"
+  "MyRewardQuestion": "Your current transaction ratio per hour may increase or decrease ",
+  "MyWithdrawlQuestion": "Total every 24 hours current rewards"
 }
